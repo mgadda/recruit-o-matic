@@ -73,7 +73,7 @@ var moreBtn = document.querySelector('#more-btn');
 moreBtn.addEventListener('click', function (evt) {
   // Reset button state
   var copyBtn = document.querySelector('#copy-btn');
-  copyBtn.innerText = "Copy to clipboard";
+  copyBtn.textContent = "Copy to clipboard";
 
   // Update hash with last seed to this is bookmarkable
   window.location.hash = prng.getSeed();
@@ -111,7 +111,7 @@ copyBtn.addEventListener('click', function (event) {
 
   window.getSelection().removeAllRanges();
 
-  copyBtn.innerText = "Copied!";
+  copyBtn.textContent = "Copied!";
 });
 
 function recruitOmatic(paragraphLengths, prng) {
@@ -120,7 +120,7 @@ function recruitOmatic(paragraphLengths, prng) {
   message.innerHTML = "";
   paragraphLengths.forEach(function (len) {
     var p = document.createElement("p");
-    p.innerText = chain.generate(len);
+    p.innerHTML = chain.generate(len);
     message.appendChild(p);
   });
 }
