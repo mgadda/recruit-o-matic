@@ -2,7 +2,6 @@
 *.iml
 *.swp
 build
-
 node_modules
-
 *.un~
+*.min.js
