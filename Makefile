@@ -10,8 +10,8 @@ build_dir:
 recruit.min.js: build_dir recruit.js
 	uglifyjs recruit.js --screw-ie8 -m -c -o recruit.min.js
 
-chain.json:
-	go run markov.go  -print-chain < train/body.txt > chain.json
+chain.json: markov/markov.go
+	go run markov/markov.go  -print-chain < train/body.txt > chain.json
 
 run: all
 	cd build; python -m SimpleHTTPServer 8000
