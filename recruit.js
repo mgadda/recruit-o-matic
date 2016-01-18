@@ -81,9 +81,7 @@ moreBtn.addEventListener('click', function (evt) {
 
   // track page change (this is a virtual page refresh)
   if (typeof(ga) !== 'undefined') {
-    var path = document.location.pathname + document.location.hash;
-    ga('set', 'page', path);
-    ga('send', 'pageview');
+    recordPageView();
   }
 });
 
@@ -129,6 +127,12 @@ function recruitOmatic(paragraphLengths, prng) {
 
 var prng;
 
+function recordPageView() {
+  var path = document.location.pathname + document.location.hash;
+  ga('set', 'page', path);
+  ga('send', 'pageview');
+}
+
 document.onreadystatechange = function () {
     if (document.readyState == "interactive") {
       var seed;
@@ -139,7 +143,7 @@ document.onreadystatechange = function () {
         window.location.hash = seed;
       }
       prng = new PRNG(seed);
-
       recruitOmatic([1,3,3,1], prng);
+      recordPageView();
     }
 }
