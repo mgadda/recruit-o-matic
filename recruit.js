@@ -1,4 +1,4 @@
-var Chain = function (chainData) {
+var Chain = function (chainData, prng) {
   var chain = chainData.Chain;
   var prefix;
 
@@ -27,7 +27,7 @@ var Chain = function (chainData) {
         break;
       }
 
-      var next =  choices[Math.floor(Math.random() * choices.length)];
+      var next =  choices[prng.randInt(0, choices.length)];
       words = words.concat(next);
       // rotate left
       prefix.shift();
@@ -45,12 +45,46 @@ var Chain = function (chainData) {
   return this;
 }
 
+// Adapted from http://indiegamr.com/generate-repeatable-random-numbers-in-js/
+var PRNG = function(seed) {
+  var _seed;
+  if (typeof(seed) != 'undefined') {
+    _seed = seed;
+  } else {
+    _seed = Math.random();
+  }
+  // min (inclusive) to max (excusive)
+  this.randInt = function (min, max) {
+    max = max || 1;
+    min = min || 0;
+
+    _seed = (_seed * 9301 + 49297) % 233280;
+    var rnd = _seed / 233280.0;
+
+    return Math.floor(min + rnd * (max - min));
+  }
+
+  this.getSeed = function () {
+    return _seed;
+  }
+};
 
 var moreBtn = document.querySelector('#more-btn');
 moreBtn.addEventListener('click', function (evt) {
+  // Reset button state
   var copyBtn = document.querySelector('#copy-btn');
   copyBtn.innerText = "Copy to clipboard";
-  recruitOmatic([1,3,3,2]);
+
+  // Update hash with last seed to this is bookmarkable
+  window.location.hash = prng.getSeed();
+  recruitOmatic([1,3,3,1], prng);
+
+  // track page change (this is a virtual page refresh)
+  if (typeof(ga) !== 'undefined') {
+    var path = document.location.pathname + document.location.hash;
+    ga('set', 'page', path);
+    ga('send', 'pageview');
+  }
 });
 
 // Adapted from http://codepen.io/nottrobin/pen/meObWe
@@ -65,6 +99,14 @@ copyBtn.addEventListener('click', function (event) {
   try {
     // Now that we've selected the anchor text, execute the copy command
     document.execCommand('copy');
+    // track copy button click event
+    if (typeof(ga) !== 'undefined') {
+      ga('send', 'event', {
+        eventCategory: 'Button',
+        eventAction: 'click',
+        eventValue: prng.getSeed()
+      });
+    }
   } catch(err) {
     console.log('Oops, unable to copy.');
   }
@@ -74,8 +116,8 @@ copyBtn.addEventListener('click', function (event) {
   copyBtn.innerText = "Copied!";
 });
 
-function recruitOmatic(paragraphLengths) {
-  var chain = new Chain(chainData);
+function recruitOmatic(paragraphLengths, prng) {
+  var chain = new Chain(chainData, prng);
   var message = document.querySelector(".message");
   message.innerHTML = "";
   paragraphLengths.forEach(function (len) {
@@ -85,4 +127,19 @@ function recruitOmatic(paragraphLengths) {
   });
 }
 
-recruitOmatic([1,3,3,1]);
+var prng;
+
+document.onreadystatechange = function () {
+    if (document.readyState == "interactive") {
+      var seed;
+      if (window.location.hash != "") {
+        seed = parseFloat(window.location.hash.slice(1));
+      } else {
+        seed = Math.random();
+        window.location.hash = seed;
+      }
+      prng = new PRNG(seed);
+
+      recruitOmatic([1,3,3,1], prng);
+    }
+}
