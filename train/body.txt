@@ -262,3 +262,125 @@ It’s important I reach you as soon as possible to discuss my client in San Fra
 I strongly encourage you to simply consider a conversation about this opportunity and I firmly believe this could be an environment where you will thrive. I can call you anytime at your convenience and if you would prefer a job description first I’m happy to send that at your request.
 
 Please tell me at what time and number would convenient for us to speak and I hope to hear from you soon!
+
+I hope you are doing well! I know that there are a lot of changes happening at Twitter. I thought I would touch base with you to see if there is any interest on your end to pursue something new. I have some excellent SF base companies looking to fill open roles.
+
+I really like your skill set and experience. I would love to discuss my opportunities with you, provide you with the salary details and the job description. Would there be a good time for us to talk and a number I could reach you at? You might be happy where you are now, but it never hurts to carefully explore other ideas especially if I can get you a new challenge and a salary raise. If you could get back to me, one way or the other, that would be great.
+
+How's it going? I noticed you've worked with Ruby and your experience caught my eye. We work mostly with Ruby/Sinatra. Any interest in joining LA's fastest-growing startup?
+
+We're disrupting stock photography with user-generated content that's truly amazing, giving businesses and amateur photographers a chance to connect and tell their stories together.
+
+We're hiring a couple of engineers, and I thought you'd be a great fit. When can we chat?
+
+My name is Leah Walsh, I’m a recruiter at VMware. Does solving unique distributed systems problems interest you? I’m supporting the NSX Controller team, focused on building the network virtualization platform that delivers the operational model of a VM for the network. Deemed the pioneers of the software defined network, this team is working on VMware’s NSX distributed systems controller. They are currently looking to add exceptional & seasoned talent like you to the team.
+
+Based on your experience our technical leadership would appreciate the opportunity to explore the candidate process with you.
+
+The “NSX Controller” team is putting together a very small “INVITATION ONLY” interviewing event in Palo, Alto, CA and I would like for you to attend and interview with us.
+
+We’d like to ensure that you have a great candidate experience; hence if you are already currently engaged with any other VMware recruiter/s or teams please let me know so that we coordinate our efforts. OR if you’ve interviewed in the last year please let me know.
+
+Please send me a RESUME confirmation email ASAP with your updated resume and you will be then contacted shortly to schedule the interviews and go over the details of the teams/event and send you additional detailed information about the team.  We value your referrals; please don’t hesitate to share my information with any of your friends/colleagues who may be interested.
+
+Thank you in advance for the consideration.
+
+I wanted to reach out one more time regarding the opportunity for Sr. Software Engineer (frontend/UI) with Sony in San Francisco. Your experience is very well aligned and this is an amazing opportunity to work with one of the most well recognized brands in the world on a new product (Sony Vue).
+
+Let me know if you are open to a quick conversation, alternatively any referrals are appreciated.
+
+Nice career progression.
+
+Any interest in talking with me about a Senior or Lead Software Development role in a new group that is starting to build a Recommendation engine from the ground up? This is an opportunity to be a team member on this project from design to launch.
+
+I have several positions in Palo Alto, CA with this AndroidOS start-up with over 50 Million subscribers, and a large round of Series C funding. What a great opportunity to positively impact the mobile landscape!
+
+Please let me know if you are interested and we can talk about your career goals.
+
+Thanks for your consideration.
+
+I've reached out to you about opportunities in the past but I recently joined CrunchBase and I'd love to speak with you about joining the team as a Lead Engineer. We began as a small community database of startups and have since become the leading method of discovering companies and the people behind them. We spun off on our own in September with a $7M Series A and brought on Jager McConnell as the CEO. CrunchBase is in a unique spot -- we have millions of users and superb name recognition, but we're operating as a fresh startup building greenfield products.
+
+We're building highly scalable systems for searching, analyzing, and exploring massive data sets in real time. The CrunchBase vision is huge -- in order for us to achieve it we'll be building a platform capable of hosting public and private data side-by-side, slicing and dicing data in highly-connected domains, and providing tools and APIs to third parties to enable to CB ecosystem.
+
+I think your experience leading engineering at Twitter would be a huge addition to the team. Would you be up for a quick call to hear more about what we're building?
+
+We recently contacted you regarding a career opportunity with Citrix, and I wanted to make sure that you saw this.
+
+We have a career opportunity as a Staff Software Engineer, (Lead-level Web Dev, JavaScript/HTML/CSS) for GoToMeeting, if that would be a better fit.
+
+It’s a great – and very fast-paced – environment, with an excellent career path and a clear vision for the product.
+
+I hope you’re interested in learning more – in that case please let me know.
+
+Have a great day, I hope we can catch up soon.
+
+I emailed you about a week ago about Snowflake Computing. Working at Twitter I'm sure you get millions of these emails from recruiters constantly. We’re very passionate about reinventing datawarehousing using the cloud and I wanted to make sure you had a chance to check us out. Your background in Java based software enigneering is really interesting and relevant to us and it’s a unique opportunity for you to be part of a truly disruptive product team.
+
+
+Our software delivers the full scalability of cloud based services as well as fully manages the entire datawarehouse for our customers – everything from performance tuning, configuration and monitoring to indexing and queue management. Find out more about the Snowflake Difference here
+
+This is an exciting time for us and the market is taking notice. We’re poised to disrupt at $12 Billion market! Check out our press.
+
+I’d love to chat with you more about what we’re doing and how you can be a part of our team.
+
+Let me know your thoughts.
+
+We haven’t spoken before so I hope you don’t mind my bold reach out. I saw your LinkedIn profile, and was impressed by your Twitter experience. I work with Marcin Zukowski, the cofounder of Snowflake, and we are both interested in connecting with you!
+
+We're on the hunt for versatile and passionate engineers for our growing office in San Mateo. Given your experience with Java, Web and Cloud technologies, Marcin and I thought you might be able to help us out.
+
+Here’s some background about us -- We build revolutionary elastic datawarehouse services that are more flexible, scalable and easier to use than anything else out there. We design our software from the ground up to take advantage of cloud infrastructure. Our architecture delivers the full advantage of cloud based elasticity to the data warehouse.  Our customers take advantage of the ability to almost instantly scale storage size, processing power and user workloads. We're well-funded and poised to take over the market!
+
+As a senior member of our engineering team, you will help us tackle significant scaling and performance challenges with modern techniques. We solve complex problems involving distributed systems, service-oriented architectures, data encryption, metadata storage, cloud infrastructure, and more! Plus, you get the chance to work alongside some of the best people in the business.
+
+If you are interested in learning more about us and the business problems we are solving, I’d love to chat with you or set you up to chat with one of our engineering leads. You can also take a look at our careers page for more details about our culture, benefits and jobs.
+
+Looking forward to hearing back from you!
+
+Because of your strong UI background with Javascript and its frameworks, I thought you might want to hear about this position for a Sr. Web Engineer- Imprivata is a well-established company based in Boston with small offices in San Francisco and Santa Cruz, and we are re-architecting! -we are looking for people with skills in Javascript and jQuery, among others, to lead this development. I am hoping that you or someone you know might be interested in exploring this fresh opportunity.
+
+I can put any interested parties in touch with Kiki Beach Kurvin, who recruits directly for Imprivata and is setting up interviews. Please get back to me with any questions, or you are welcome to contact Kiki directly. The specific job descriptions are below, where you can view and/or apply directly.
+
+Thanks and have a great day!
+
+
+I'm searching for exceptional Clojure and Erlang engineers interested in joining our growing team and I wanted to see if you would be interested in this position.
+
+Sensity Systems is designing industrial Smart LED lighting that will be integrated on a first-of-its-kind Light Sensory Network.  Our lights will be equipped with cameras and various other sensors that to collect a robust amount of data. There are a multitude of ways in which our technology can be utilized such as providing real-time retail analytics, security without surveillance, optimized traffic flow, and open parking spot tracking, to name a few. Smart LED street lighting is a game-changer that will optimize the world we live in, especially with the rise of smart cities and the growing IoT industry.
+
+We have strategic partnerships with GE, Cisco, Acuity Brands and Simon Properties and have over $70 million in funding. We offer a competitive salary and pre IPO equity.
+
+Please let me know if you would be interested in discussing this opportunity further and if so, a good time and phone number to reach you at.
+
+I understand that I’ve previously reached out to you regarding this position so if this does not interest you, please just let me know and I will remove you from my candidate list as I do not want to contribute to unnecessary inbox clutter. My intention with this email is to add value and a positive outcome for all, nothing more.
+
+Thank you again for your time and consideration. Wishing you a very healthy and happy New Year!
+
+
+I hope you don’t mind me contacting you out of the blue, but our Head of Talent is very interested in chatting with you regarding our Director of Engineering position.
+
+Tackling the most difficult challenges in the mortgage industry, Roostify’s game changing technology is simplifying and accelerating the home lending experience.
+
+Tier 1 banks have come to depend on our unmatched ability to deliver a digitized home lending experience to their borrowers and partners.
+
+We are passionate about unifying New Tech, Finance, and Bright Minds to develop the most transformational web and mobile platform.
+
+As our Director of Engineering you will be using Ruby on Rails to solve cutting-edge technical challenges that have real impact on people's financial lives.
+
+60% quicker transaction time than any other platform
+
+Let me know if you can jump on a quick call sometime this week.
+
+I hope you are having a great holiday season!
+
+Saw your profile and liked your experience so I wanted to reach out and introduce you to HealthTap.
+We’re a post B-series startup based in a cool space in downtown Palo Alto. We’re building a platform that gives access to top health advice and care from doctors to anyone, located anywhere in the world, at any time.
+
+We’ve already achieved numerous accolades, including winning a 2015 Webby Award and being named a 2016 Technology Pioneer by the World Economic Forum. Our founders come from Stanford, Yale, and IIT, and our team is composed of people from top schools like Stanford, Berkeley, CMU, IIT, and Tsinghua University.
+
+Our success is in the numbers: We have more than 79,000 doctors on our network, have served millions of patients around the world with health advice, information, and care, and recently signed up our first enterprise customer. Global supply-chain leader Flex will use Healthtap’s platform to help its 200,000 employees get medical care more quickly and easily.
+
+Here’s a documentary that you can take a look at to learn more.
+
+Do you have 15 minutes to chat next week?  I’ve CC'ed our lead recruiter, Kendall, who can help get you scheduled.
