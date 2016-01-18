@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f9f9f9;
+  font-family: "Helvetica", "Sans Serif";
+}
+
+h1 {
+  text-align: center;
+}
+
+.body {
+  margin: 100px auto;
+  width: 600px;
+}
+
+.message {
+  background-color: #fff;
+  border: 1px solid #eee;
+  font-family: "Times New Roman", Serif;
+  font-size: 20px;
+  padding: 20px 30px;
+  width: 100%;
+}
+
+.message p {
+  margin-top: 20px;
+}
+
+.btn-bar {
+  margin: 10px;
+  text-align: center;
+}
+
+.btn {
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+#copy-btn {
+  background-color: #237AFF;
+  display: inline-block;
+  width: 160px;
+}
+
+#more-btn {
+  background-color: #69CC21;
+}
