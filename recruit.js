@@ -102,7 +102,7 @@ copyBtn.addEventListener('click', function (event) {
       ga('send', 'event', {
         eventCategory: 'Button',
         eventAction: 'click',
-        eventValue: prng.getSeed()
+        eventLabel: window.location.hash.slice(1)
       });
     }
   } catch(err) {
