@@ -1,0 +1,264 @@
+I hope you're having a great day! My name is Matt and I co-founded Hired. We've built an online marketplace that gives software engineers like you an easy to way to find new full-time and contract job opportunities in the Bay Area and 12 other tech hubs.
+
+How does it work? For 7 days, pre-screened companies will be able to send you interview requests. Most candidates get 5 or more requests during the week, with compensation disclosed upfront. When you get an opportunity you like, we'll connect you directly with their team and we'll be there to help you as much or little as you want.
+
+We're totally free. We'll block your employer and anyone else you want from ever seeing your profile. We pre-approve each of the 2,500+ companies in our marketplace.
+
+We think we're offering a service so awesome, there's no reason not to give us a shot. Just use the link below to create an account and you'll hear back from us within 48 hours!
+
+How are things going for you at Twitter? I wanted to see if you would be open to an exploratory call with me regarding a development role in our product team in SF (5th/Howard). Your background is impressive and I was wondering if you are open to starting something new this year.
+
+We use primarily Ruby/Go/ Python here in Pivotal Cloud Foundry. Below is our technology stack integrating Cloud PaaS, Big Data, and Agile methodologies: Pivotal Cloud Foundry, Pivotal One, Pivotal HD (Pivotal's Hadoop Platform), Chorus, Pivotal CF (Cloud Foundry PaaS), Gemfire XD/SQLFire, Data Dispatch, Greenplum MPP, RabbitMQ, Spring (we own Springsource), Vfabric, Tc Server, Redis, Pivotal AX.
+
+
+This is a ground-floor opportunity with a well-funded start-up which will deliver the next disruptive technology. Our products are in demand. We offer a full suite of advanced cloud based products/tools that will help usher in the 3rd generation platform. Pivotal is a company that will make history. You will help shape, guide and share in its success, along with a generous equity stake. Also, Pivotal recently hired DevOps Pioneer Andrew Clay Schafer, Co-Founder of Puppet Labs is leading our Engineering Teams and AWS Creator, Benjamin Black, to lead our Internet of Things Lab!!
+
+If this is not the right time to make a career change but you are curious and want to learn more, drop by and see us at our Meetup in SF Labs.
+
+Habit is currently in stealth, so you shouldn't be able to find anything online. Not yet, anyhow ;) With 2+ years of funding, Habit is led by Industry veterans from both the Tech and Food industries, working on bringing together nutrition and food through technology and deep science. CEO Neil Grimmer was also Founder & CEO of Plum Organics (the first organic baby food company that was acquired by Campbell’s Soup for $350M a few years back). After securing series A funding, the new focus is building out a small, agile engineering shop
+
+With that said, I have a particular opening in mind, that I thought could be right up your alley. Are you in a position to check it out?
+
+I'm a Research Associate with The Berkner Group, a San Francisco-based national recruiting firm. My supervisor Amanda Hendlin asked me to reach out to you about an exciting opportunity that we are working on. If you are interested, please feel free to respond directly to me with your contact information and I will forward that on to Amanda.
+
+I work as a recruiter for The Berkner Group, a San Francisco-based national recruiting firm specializing in edtech and greentech start-ups. Based on your experience at Catalpa Labs and PublicEarth, it looks like you could be a great fit for an excellent opportunity I’m working on.
+
+Our client, raise.me, is a San Francisco-based startup reinventing financial aid through the pioneering concept of “micro-scholarships”. One high school student recently featured on CNN used the raise.me platform to earn $80k for achievements like getting good grades and doing volunteer work.
+
+Raise.me is seeking an in-person, mission-driven, highly skilled Full Stack Engineer to join their growing team of passionate high achievers. They use Ruby on Rails, Javascript / JQuery (Backbone) / AJAX, MongoDB, Java, AWS, Node.js, and Redis (but you don’t need experience with all of those to qualify).
+
+Compensation range: junior $100k, mid-level $120k, and Senior $140k. All with generous stock options!  If this opportunity is of interest to you, or you like the idea of meaningful work at a greentech or edtech startup, feel free to get in touch!
+
+We're interviewing for a Sr. Web Developer, RoR based in San Jose
+
+Please let me know if you're interested in chatting regarding the position.
+
+
+I hope this message finds you well! My name is Jasmin Garcia, Recruiter at SurveyMonkey, the world's leading provider of web-based survey solutions that is trusted by millions of companies, organizations and individuals alike to gather the insights they need to make more informed decisions. We are looking for a mid to senior level Software Developer with a deep understanding of all aspects of the web application stack to join our engineering team at TechValidate, a SurveyMonkey company.
+
+For your reference, I’ve included a link to the job description.
+
+
+SurveyMonkey has amazing benefits, (unlimited vacation days, commuter and gym reimbursements, 401K matching, and a casual start up environment).
+
+Please let me know if this sounds like something you'd be interested in.
+
+I look forward to connecting!
+
+Looks like someone from MZ reached out not too long ago and I wanted to ping to see if there were any changes on your end. I really like the experience you've had and your cofounding background is very impressive. Here at MZ, we are working on a unique set of technical problems as no one works at the scale that we do on real time technology, putting it in to the hands of millions of users.
+
+It'd be great to chat to discuss in more detail. Please let me know how best to connect!
+
+My name is Isaac Blum, and I am an internal recruiter with Genentech, a member of the Roche Group.
+
+Based on your experience, I thought the above referenced role may pique your interest - with that being said, the ideal candidate will possess the ability to excel in the following environment.
+
+Please contact me at your earliest convenience should you know a dynamic and passionate individual who might be interested in this opportunity
+
+ Thank you very much for your time and attention.
+
+I am a tech Recruiter for Disney and came across your profile. I think your skills and experience would be a nice fit. Would you be open to hear about Disney opportunities? If so, let's schedule some time that works best for you!
+
+As a member of the Medallia family, we would like to wish you and your loved ones a safe and happy holiday! Wherever you are - home, traveling or at work at Twitter until the very last minute - you are in our thoughts.
+
+ We are incredibly excited about the year ahead - and we're looking forward to an opportunity to connect with you! We cherish the holiday season and feel the time is meant to be spent with your friends and family - so we will reach out again in the new year. In the meantime, here's to you and everything you do. Happy Holidays and Happy New Year!  In case you have a few minutes of downtime during the break, check out what's going on at Medallia. If you'd like to learn more before the new year, feel free to let me know.
+
+I came across your LinkedIn profile today and was impressed with your experience.
+
+I’m recruiting on behalf of Bloomberg the foremost provider of financial data, news and analysis in the world. Senior Management is hosting an exclusive "invitation-only" hiring event at their headquarters in NYC. I’d like to set up a time to speak confidentially about securing an invitation for you - Given your strong background, the hiring manager would be excited to speak with you. If you're interested, I'd love to tell you more about it.
+
+Please send me your resume to help guide our conversation.
+
+My apologies for the unsolicited message. I work at New Relic helping to build our expanding Engineering & Business teams in Portland, San Francisco, Seattle, Phoenix, Barcelona... We are looking for a Senior Software Engineer (perhaps Lead Engineer) in San Francisco for our Business Enablement Engineering team. I'm not sure if you'd be interested in exploring new opportunities but I wanted to send you this note just in case.
+
+Our Senior (could be a Lead Software Engineer) should have strong technical skills (Ruby on Rails is the current stack, however we are open to any programming experience) & be able to lead, mentor & drive a small team of engineers working on internal and product centered business applications (Customer Experience, Billing Systems, Sales, Marketing, anything that helps us grow as a company). We have grown rapidly in the last 2 years and will continue do so. (We went public late last year). This team is a key part of why New Relic has been able expand so quickly and efficiently; there are lots of interesting ideas in software but this is the team leading the way w/ successful execution. New Relic is a software analytics product / platform company and this is the team that drives our success.
+
+San Francisco serves as our main headquarters - our Business Enablement Engineering team is based here along with our executive team + sales, marketing, business development teams, legal, HR etc. Portland & Seattle are our Product Engineering headquarters.
+
+Let me know if you'd be interested in a quick chat sometime to learn more.
+
+My name is Jenna Scheeter and I am a Technical Sourcer here at WalmartLabs. I wanted to reach out to you and see if you would be interested in having a conversation with me with respect to the fact that you may not be actively looking. Given your background and expertise, I wanted to network with you regarding opportunities at @WalmartLabs, the innovative arm of Walmart.com.
+
+ Thank you for your time and consideration! If you are not interested at this time, please connect with me on LinkedIn. I’d love to network with you and keep in contact.
+
+My name is Megan and I am an Applications recruiter for TEKsystems in the San Francisco Bay Area. We are a leading technology staffing and services company nationwide. Would you like to receive notice of possible opportunities, or are you open to networking?
+
+I would love to hear more about what you are doing now and what you are looking for to make sure I only contact you with the most relevant opportunities. I’d like to take just 5-10 minutes of your time to find out more about your career goals and what is or may be of interest to you. My goal is to learn a bit more about your objectives and career interests, in order to possibly assist you on future project placement. I look forward to chatting with you at your convenience.
+
+I just came across your info and was curious if you may be open to exploring opportunities with us. We recently opened up a spot on our Engineering Team and given your 10+ years of experience in the industry you would be a great addition to our team.
+
+We are a fast growing technology company in the web and audio conferencing space. Below I have included a link to our web-site; blog and Twitter information.
+
+Please let me know if you would be interested in learning more.
+
+You've been contacted by some of my colleagues from VonChurch in the past, but it never seemed to be the right time for you. I'm sure it'd take a lot for you to consider leaving Twitter, but I wanted to reach out and say hello.
+
+ If you're interested, we're working on a few iOS dev roles that could be a great fit for you. The specific one I wanted to run by you would be with a company called Epic!  Epic is looking for an iOS dev with experience working in Objective-C and Swift. Epic is putting together a subscription service for Childrens books, something that is going to be a huge convenience for parents. If you haven't bought many kids books, they're about $10-$20 a pop, that really adds up after only getting a few.
+
+Right now Epic has 12 people in their office, and they just received another $8 mil in funding, so they're looking to grow fast.
+
+ Even if you aren't looking for a career move, I'd still love to get an idea of where you see your career going. It's nice to have someone in your corner when you do move, whether it's a week or a year down the road.
+
+Are you open to a brief chat this week? No commitment.
+
+My name is Jay Stowe and I am a Bay Area based technical recruiter. I have helped build companies like Netflix and Hortonworks and am currently helping to build out the team at Luxe.
+
+I wanted to connect with you on Linkedin and keep in touch - I have an extensive network and am more than willing to help if you are ever looking for a job or are looking to add to your team. I have a huge network of recruiters at most companies in the Bay and can help get you introduced if you are ever looking in the future.
+
+Feel free to add me if you are interested in staying connected.
+
+Looking forward to connecting - let me know if there is anyway I can help.
+
+This is Patrick Lee with RingCentral and I hope this inmail find you well! Your work in iOS has caught our eyes. I am writing as we have a critical hiring need focused on our Senior iOS Developer position!
+
+We’re wondering if you were open to considering or entertaining employment leads. If you are, I’d love to speak with you about this opportunity. Please let me know if we can schedule you to have a 15 – 20 mins chat with our Senior Technical Recruiter, Ray Chang. We look forward to hearing from you soon.
+
+Attached below is the Job Description with qualification and requirements for your review.
+
+Hope you are doing well.
+
+I am working with Vantage Robotics, creators of a new quadcopter drone with a gimbal stabilized 4k camera. If you like robotics and ever wanted to try your hand in a startup, this is a great opportunity. They are pre-series A which means a meaningful equity stake and an opportunity to build a company from the ground floor. Backed by one of the worlds authorities on drones.
+
+Located in Burlingame, we are in search of the first iOS leader, someone hands on, is a deep iOS expert and can drive the creation of a beautiful App as part of their overall Product.
+
+If you are interested in an entrepreneurial role with significant upside and a chance to be part of a small team where you are making a difference every day, this is worth checking out.
+
+Any interest in hearing more?
+
+Pardon the note out of the blue – I came across your profile and noticed your background and education in engineering is impressive. I'd love to see if you'd be interested in opportunities with LinkedIn.
+
+Are you open to a quick call about any personal interest you might have or even just for networking?
+
+I recently found your profile on LinkedIn. You would be a great fit for our Senior Software Engineer! Our compensation and benefits are a cut above the going rate for Sillicon Valley. You'd be working everyday with super intelligent people on interesting projects, at a very fast pace. If this sounds good to you, please email me your full resume.
+
+I look forward to hearing from you!
+
+Let me tell you about a company called DoubleVerify. As the leader in digital performance solutions since 2008, their pioneering technologies have helped hundreds of Fortune 500 companies gain the most value out of their media spend.
+
+What does that mean in English? DV essentially polices and provides quality assurance to advertisers and publishers to get the most effective spend in their campaigns. Must make DV an AdTech company right? Nope. They are a data optimization company and an extremely fast growing tech company. And as the leader in the space, they are looking to double their size in 2016.
+
+
+So why should you care? Glad you asked. DV is opening a new division called DV Labs and they are looking for employee number one. And if I’ve done my homework right, that should be you. So if you like the idea of being the number one employee in a new division of an industry leader with all the perks that come with that, then let’s set aside a time to discuss this opportunity a little more in detail.
+
+I hope you're doing well! I wanted to follow up on my note from last month. I'd love to learn more about you and your goals when it comes to future opportunities.
+
+Please let me know if you're open to chatting!
+
+I head up Tech Recruiting at Flipagram and we are looking to work with the most inspired and innovative engineering talent we can find, who want to make a huge impact on our already incredible product! I reviewed your background with our CTO and we were very impressed with your experience.
+
+
+Our engineers like working with smaller teams that expose them to new development projects and opportunities with cutting edge technologies, not just maintenance work but building cool things! We would like to set up a call to discuss an opportunity here at Flipagram.
+
+Flipagram launched November 18th, 2013 and before the year was over it was the #1 free app in over 85 countries around the world. Since then we've amassed over 125 million users, gained incredible investors, and are building the team that will help us scale to this unbelievable opportunity! We have over $70 million in funding and are backed by incredible people such as Sequoia (Mike Moritz) and KPCB with John Doerr sitting on our Board. The last board these guys sat on together was Google.
+
+We are based in Los Angeles and are currently at 60 employees and strategically growing (www.flipagram.com) gives you additional details and info as well as great videos of what it's like to work here...
+
+We pay top of market, have a great equity and bonus structure and cover all benefits for both employee and family 100%, unlimited vacation policy and more.
+
+We've been all over the tech news for the last few months. Amazing stuff! I've included links below for you to check out.
+
+Would you be open to hearing more about opportunities here at Flipagram?
+
+
+I would love to talk with you about an exciting opportunity in our Marcom group here at Apple in California.
+
+Apple is seeking a talented and driven Sr. full-stack developer (Ruby on Rails) to be a key player in the development of tools within our project portfolio.
+
+Let me know if you would be interested in knowing more. Look forward to our chat!!
+
+By way of introduction I work for Domo and our Director of Engineering reviewed your background and experience and is highly interested in talking to you about Software Engineering opportunities at Domo. Our office is located in the Financial District.
+
+Domo is a promising big data startup that has received over $450 million in funding with a $2 Billion valuation from Benchmark, Fidelity Investments, Founders Fund, GGV Capital, Greylock Partners, IVP, Salesforce.com, TPG Growth, T. Rowe Price, WPP and Zetta Venture Partners, plus CEOs of the world's largest SaaS and Internet businesses.
+
+I'd love to chat briefly about your situation and if you would be open to having some conversations with Domo? Let me know what daytime number I can reach you at.
+
+Even if you are not interested now, we would love to get to know you should the opportunity present itself again in the future.
+
+I saw your LinkedIn profile and wanted to let you know that Nest would love to speak with you if you're interested. How's Twitter treating you? I know from experience that the best engineers like you are already working and are simply looking for something exciting to pique their interest. Nest has lots going on and got started by engineers like yourself. Our Founder/CEO led the teams which created Apple's first iPods and iPhones. I would love to coordinate an introductory call if you're interested in learning more.
+
+If you have not yet heard of Nest, below are a few great reasons to consider joining our team: Amazing leadership. We reward creativity and out of the box thinking. Our culture is unmatched. You'll receive the employee perks that made Google famous. We function like a growing startup yet have the resources of Alphabet. You can see first hand how Nest creates amazing, self-learning products. Employees here are given incredible opportunity to grow and continue their learning.
+
+Hope you're having a good week.
+
+I run a firm called Fortis Partners. I’m reaching out because I’m working with a radical stealth nutrition startup in Emeryville and thought you might like to hear more.
+
+The company was recently founded by Neil Grimmer (founder of Plum Organics) and has 2+ years of runway with an aim of using heavy science turned into machine-learned algorithms to understand a person’s particular biology and individual response to different food types. Because most diets and nutrition programs nearly always a “one size fits all” method, the company is taking a much more individualized approach by analyzing a person’s health. With this data, the company can offer both an incredibly comprehensive individualized nutrition plan, as well as a daily gourmet food delivery program tailored to maximize a person’s health and overall well-being.
+
+Right now we’re searching for the company’s potential 11th full-time employee - an experienced Ruby on Rails developer who is passionate about clean, beautiful code, experienced with infrastructure and deployment (ideally Circle CI), and interested in joining a small but growing startup-minded engineering team. We can offer a healthy base salary, great benefits, and a very strong early-stage equity package.
+
+Please let me know if you're open to hearing more!
+
+Hope you are well. I'm following up from Michael's message earlier this month to check in and see how things are going at Twitter.
+
+I'd love to grab a coffee to chat about your background and the technical challenges we're facing at Tunein!
+
+Are you interested in learning more?
+
+Would you or someone you know be interested in hearing about an opportunity with our San Francisco office? We are the leading provider of SaaS within the Higher Education space, and are currently looking for a developer to join the team working on our Brainstorm Product. It's a compentency based education program. Below is a link to the product, and attached is the Job Description.
+
+Look forward to hearing from you.
+
+GREAT OPPORTUNITY FOR A SW ENGINEER-UI AUTOMATION AND TOOLS AT JUNIPER NETWORKS IN SUNNYVALE; CA
+
+Juniper Networks is hiring in Sunnyvale; CA. We're looking for a savvy Software Engineer -UI applications and tools.
+
+Minimum Qualifications: BS degree in Computer Science, Computer Engineering or related fields. Minimum of 5 years of solid development experience on web applications. Ruby on Rails, javascripts, jQuery and CSS. REST/Ajax services, JSON. Excellent software development and debugging skills. Object oriented designs and programming. Understand and enforce SDLC process. Good problem finder and problem solver. Preferred Qualifications: MS in Computer Science, Computer Engineering or a related fields. Experience with Sencha ExtJS is a plus. Experience with RDBMS and noSQL (Mongo) is a plus. Experience with perl and python is a plus. Distributed architecture, large scale processing server farm design experience is a big plus. Experience with big data, Cassandra, HADOOP is a big plus.
+
+If interested and willing to explore, I'd like to have a conversation with you regarding this great opportunity, so, please, send me your Resume, mobile number and best time to reach you.
+
+If not interested and you know someone who is actively looking for a change and willing to join an awesome company, do send him/her my way.
+
+Also feel free to invite me on Linkedin for future opportunities following the link underneath my signature.
+
+Hope to hearing from you soon.
+
+I reached out to you a few days ago regarding our Senior Front-end Engineer role and wanted to check back to see if you might be interested in learning more. I'm being persistent because I really think you could make a fantastic addition to our San Francisco team.
+
+PagerDuty is a product built by engineers for engineers that solves critical problems across IT. We're well-funded and backed by some the valley's best investors, including Y-Combinator, Andreessen Horowitz, and Bessemer Venture Partners. It's an exciting time to join the team, because there are a lot of opportunities to make meaningful contributions to the company.
+
+Let me know if you have a few minutes to hop on a call with me :)
+
+I hope you are having a great Thursday! I am reaching out because a client of mine in Palo Alto, CA is seeking Backend Software Engineers. The skill set is outlined below.
+
+Develop high quality, highly available systems within client's service oriented architecture. Write clear, maintainable and performant code. Projects include real time data synchronization, identity management, large-scale data processing frameworks, and service endpoints for web, embedded and mobile clients. Diagnose problems which can only arise in a complex distributed environment. Work cross functionally with Product Marketing, TechOps and Integration Engineering.
+
+Minimum Qualifications: Bachelor’s degree (or higher) in Computer Science, Mathematics, Statistics or related field. Solid understanding of multiple programming languages (e.g. Scala, Java C/C++, Python).  5+ years of backend software development experience.
+
+Preferred Qualifications: Experience building high quality distributed systems or backend services.  Proficiency in designing, building, and debugging distributed systems.  Demonstrated JVM experience.  Familiarity with Scala or other functional languages.  Familiarity with one or more common web frameworks such as the play framework.  Comfort with basic cryptographic techniques and security protocols is a plus.  Comfortable working on Linux-based systems.  A passion and curiosity for creating and building things.
+
+I was hoping to have a chance to chat with you about your Hadoop experience at Twitter. We have a couple of groups here that would be interested in your background and I wanted to find out if the timing might be right for you to consider opportunities with us?
+
+I understand you're not necessarily looking for a new position since you're still at Twitter, but we'll make it worth your while. We've already proven ourselves to be very profitable, and with our pre-IPO employee equity this is the fabled "right time" to join a start-up. As I'm sure you're aware, these perfectly-timed windows don't open too often - even in Silicon Valley.
+
+I look forward to hearing back from you!
+
+How are things at Twitter? I've sent you a few messages over the past year and wanted to touch base to see if you would be interested in engineering opportunities with Facebook in California or Seattle. Let me know if we can connect for a quick phone call to discuss opportunities. If this isn't the right time, I completely understand and we can stay in touch based on your schedule – no rush.
+
+I wanted to follow up on my original message. We're looking for a tech lead to manage the team building out a brand new Rails/Ember product, and your experience looks like a great fit for the role here at Stella.
+
+Happy to have a conversation if you are interested.
+
+I'm helping eatsa.com find a Senior Web Software Engineer to come aboard to set standard for quality of web development. If you haven't heard of Eatsa, they're blowing up! Check out their yelp and some information on their company.
+
+My name is Debbie, Recruiter for etouches. We are actively recruiting for a Sr. Architect, Team Lead (PHP) for our Norwalk, CT location. I was wondering If you or someone you know might be interested in a new opportunity, please let me know.
+
+I wanted to reach out to you because I am impressed with your background. We are in the process of establishing our Web Services teams which will create new features for our Search/Discovery, Ad Tech, Big Data and eCommerce platforms. Our tech stack is Java, AWS and NoSQL.
+
+We have a unique culture (no annual reviews to complete but continuous comp evaluation to keep you top of the market) with a very even work/life balance. Many of our Senior Engineering folks have families and are not expected to work insane hours. Additionally, Roku is pre-IPO so it’s a great opportunity for someone who likes to build teams and platforms from scratch while being rewarded with both top compensation and private equity.
+
+
+Would you be interested in having a pre-liminary conversation with me about your background as it relates to what we are doing?
+
+Look forward to connecting with you!
+
+I see that you have been with Twitter for about two and a half years and I am wondering whether you would be open to exploring a new opportunity at this time?
+
+I am looking for a Sr Software Engineer for an early stage client of mine in SF. They are disrupting a trillion dollar industry and have thus far received over 14M in funding, with 11M coming just two weeks ago. You would be a key member of a small company and would have the ability to quickly and quantitatively tell whether millions of people appreciate your work.
+
+I hope you are having a great day and would appreciate hearing back if you are interested.
+
+It’s important I reach you as soon as possible to discuss my client in San Francisco who seeks an exceptional engineer with your level of experience in modern JavaScript technologies.
+
+I strongly encourage you to simply consider a conversation about this opportunity and I firmly believe this could be an environment where you will thrive. I can call you anytime at your convenience and if you would prefer a job description first I’m happy to send that at your request.
+
+Please tell me at what time and number would convenient for us to speak and I hope to hear from you soon!
