@@ -14,8 +14,7 @@ chain.json:
 	go run markov.go  -print-chain < train/body.txt > chain.json
 
 run: all
-	cd build
-	python -m SimpleHTTPServer 8000
+	cd build; python -m SimpleHTTPServer 8000
 
 clean:
 	rm -rf build recruit.min.js chain.json
