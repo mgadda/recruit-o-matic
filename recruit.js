@@ -7,7 +7,7 @@ var Chain = function (chainData, prng) {
   }
 
   // Ported and adapted from https://golang.org/doc/codewalk/markov/
-  this.generate = function (n, p) {
+  this.generate = function (n) {
 
     var words = [];
 
@@ -70,7 +70,7 @@ var PRNG = function(seed) {
 };
 
 var moreBtn = document.querySelector('#more-btn');
-moreBtn.addEventListener('click', function (evt) {
+moreBtn.addEventListener('click', function () {
   // Reset button state
   var copyBtn = document.querySelector('#copy-btn');
   copyBtn.textContent = "Copy to clipboard";
@@ -87,7 +87,7 @@ moreBtn.addEventListener('click', function (evt) {
 
 // Adapted from http://codepen.io/nottrobin/pen/meObWe
 var copyBtn = document.querySelector('#copy-btn');
-copyBtn.addEventListener('click', function (event) {
+copyBtn.addEventListener('click', function () {
   // Select the email link anchor text
   var messageEl = document.querySelector('.message');
   var range = document.createRange();
