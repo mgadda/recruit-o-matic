@@ -140,10 +140,16 @@ document.onreadystatechange = function () {
         seed = parseFloat(window.location.hash.slice(1));
       } else {
         seed = Math.random();
-        window.location.hash = seed;
+        window.history.replaceState({}, null, '/#' + seed.toString());
       }
       prng = new PRNG(seed);
       recruitOmatic([1,3,3,1], prng);
       recordPageView();
     }
 }
+
+window.onpopstate = function () {
+  var seed = parseFloat(window.location.hash.slice(1));
+  prng = new PRNG(seed);
+  recruitOmatic([1,3,3,1], prng);
+};
