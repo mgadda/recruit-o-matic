@@ -10,7 +10,7 @@ build_dir:
 recruit.min.js: build_dir recruit.js
 	uglifyjs recruit.js --screw-ie8 -m -c -o recruit.min.js
 
-chain.json: markov/markov.go
+chain.json: markov/markov.go train/body.txt
 	go run markov/markov.go  -print-chain < train/body.txt > chain.json
 
 run: all
