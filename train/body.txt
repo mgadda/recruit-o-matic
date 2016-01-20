@@ -509,3 +509,19 @@ Our stack consists of Ruby, Postgres, Elasticsearch, Go, Docker, Kubernetes (we 
 
 If you're open to it, I'd love to connect and explore if there's a strong mutual fit. Free to chat this week?
 
+I’ve reached out to you twice already but I haven’t heard back so I thought I’d try you one last time. I’m really excited to share more information about Snowflake Computing with you!
+
+We’re rapidly growing our San Mateo offices to meet our increasing product demand and are looking for several Java software engineers to join the team.  Take a look at our product and see for yourself how we are challenging the way the world looks at datawarehousing.
+
+If you have just a few minutes sometime soon, I’d love to tell you more or set you up to speak with one of our lead developers here. Have a great rest of your day!
+
+I emailed you about a week ago about Snowflake Computing. Working at Twitter I'm sure you get millions of these emails from recruiters constantly. We’re very passionate about reinventing datawarehousing using the cloud and I wanted to make sure you had a chance to check us out. Your background in Java based software enigneering is really interesting and relevant to us and it’s a unique opportunity for you to be part of a truly disruptive product team.
+
+Our software delivers the full scalability of cloud based services as well as fully manages the entire datawarehouse for our customers – everything from performance tuning, configuration and monitoring to indexing and queue management. Find out more about the Snowflake Difference here
+
+This is an exciting time for us and the market is taking notice. We’re poised to disrupt at $12 Billion market! Check out our press.
+
+I’d love to chat with you more about what we’re doing and how you can be a part of our team.
+
+Let me know your thoughts.
+
