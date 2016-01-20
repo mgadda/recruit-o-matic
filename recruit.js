@@ -42,7 +42,6 @@ var Chain = function (chainData, prng) {
   }
 
   this.reset();
-  return this;
 }
 
 // Adapted from http://indiegamr.com/generate-repeatable-random-numbers-in-js/
