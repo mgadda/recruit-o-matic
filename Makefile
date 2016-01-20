@@ -16,5 +16,8 @@ chain.json: markov/markov.go
 run: all
 	cd build; python -m SimpleHTTPServer 8000
 
+run_dev:
+	python -m SimpleHTTPServer 8000
+
 clean:
 	rm -rf build recruit.min.js chain.json
