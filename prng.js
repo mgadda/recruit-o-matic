@@ -1,0 +1,1 @@
+var PRNG=function(n){var t;t="undefined"!=typeof n?n:Math.random(),this.randInt=function(n,r){r=r||1,n=n||0,t=(9301*t+49297)%233280;var e=t/233280;return Math.floor(n+e*(r-n))},this.getSeed=function(){return t}};
