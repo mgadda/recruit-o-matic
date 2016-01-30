@@ -45,6 +45,12 @@ function recordPageView() {
   ga('send', 'pageview');
 }
 
+function updateTweetButton() {
+  var tweetBtn = document.querySelector('.tweet-btn');
+  tweetBtn.href = "https://twitter.com/intent/tweet?url=" +
+    window.location.href.split("#").join("%23") + "&hashtags=" +
+    encodeURI("recruitomatic");
+}
 
 var prng;
 function init() {
@@ -62,12 +68,13 @@ function init() {
   var moreBtn = document.querySelector('#more-btn');
   moreBtn.addEventListener('click', function () {
     // Reset button state
-    var copyBtn = document.querySelector('#copy-btn');
-    copyBtn.textContent = "Copy to clipboard";
+    //var copyBtn = document.querySelector('#copy-btn');
+    //copyBtn.textContent = "Copy to clipboard";
 
     // Update hash with last seed to this is bookmark-able
     window.location.hash = prng.getSeed();
     recruitOmatic([1,3,3,1], prng);
+    updateTweetButton();
 
     // track page change (this is a virtual page refresh)
     if (typeof(ga) !== 'undefined') {
@@ -75,27 +82,23 @@ function init() {
     }
   });
 
-  var copyBtn = document.querySelector('#copy-btn');
-  copyBtn.href = "https://twitter.com/share?url=" +
-        encodeURI(window.location.href) + "&hashtags=" +
-        encodeURI("recruit-o-matic");
+  updateTweetButton();
 
-
-  twttr.ready(function () {
-    twttr.widgets.createShareButton(
-      'https:\/\/recruit-o-matic.com\/',
-      document.getElementById('share'),
-      {
-        hashtags: "#recruit-o-matic",
-        size: "large"
-      }
-    );
-  });
+  //twttr.ready(function () {
+  //  twttr.widgets.createShareButton(
+  //    'https:\/\/recruit-o-matic.com\/',
+  //    document.getElementById('share'),
+  //    {
+  //      hashtags: "recruit-o-matic",
+  //      size: "large"
+  //    }
+  //  );
+  //});
 
 }
 
 document.onreadystatechange = function () {
-  if (document.readyState == "interactive") {
+  if (document.readyState == "complete") {
     init();
   }
 };
@@ -104,4 +107,5 @@ window.onpopstate = function () {
   var seed = parseFloat(window.location.hash.slice(1));
   prng = new PRNG(seed);
   recruitOmatic([1,3,3,1], prng);
+  updateTweetButton();
 };
