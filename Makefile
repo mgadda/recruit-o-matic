@@ -3,6 +3,7 @@ all: build_dir recruit.min.js index.html recruit.css chain.json
 	cp recruit.css build
 	cp recruit.min.js build/recruit.js
 	cp chain.json build
+	cp TwitterLogo_white_16x16.svg build
 
 build_dir:
 	mkdir -p build
