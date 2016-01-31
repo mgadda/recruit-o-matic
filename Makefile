@@ -1,4 +1,4 @@
-all: build_dir recruit.min.js prng.min.js chain.min.js index.html recruit.css chain.json
+all: build_dir recruit.min.js prng.min.js chain.min.js index.html recruit.css chain.json TwitterLogo_white_16x16.svg industry-silo-ventilation-pipe.png
 	cp index.html build
 	cp recruit.css build
 	cp recruit.min.js build/recruit.js
@@ -6,6 +6,7 @@ all: build_dir recruit.min.js prng.min.js chain.min.js index.html recruit.css ch
 	cp chain.min.js build/chain.js
 	cp chain.json build
 	cp TwitterLogo_white_16x16.svg build
+	cp industry-silo-ventilation-pipe.png build
 
 build_dir:
 	mkdir -p build
