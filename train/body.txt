@@ -536,3 +536,24 @@ As for the rest of the recruit-O-matic plug you can see below :-)
 Thanks so much, I look forward to hearing from you.
 
 Shift is revolutionizing peer-to-peer car sales by building a platform with convenience, assurance and value in mind. Imagine building out the technology to let someone sell and buy their car with a touch of a button. No more questionable Craigslist meetings, pushy car salesmen, DMV lines, or ridiculous dealership prices. We facilitate the process from test drive to inspection, to ensuring the best price for both the buyer and seller with our unique pricing algorithm. With $74M in funding we're poised to take over the $1T car industry and we'd love for you to be a part of our story.
+
+Happy New Year! I messaged you last year about an opportunity with our software engineering team here at Fitbit. It wasn’t the right time for you then. I found your Linkedin profile again, and your knowledge and experience with consumer-facing, software products like Twitter continues to intrigue me. I figured I send you an update, and let you know that we would still be interested in talking with you. Things are still looking great here at Fitbit. In addition to our successful IPO, our software and hardware teams continue to perfect our products every day. We just released SmartTrack, and announced our latest device, Blaze, for example. We’re also still the leader in the ever expanding wearables industry. We killed it this holiday season, becoming the top free app in the iTunes App Store. Apparently everyone got a Fitbit this year! The future looks bright for us. Even after going public. Let me know if you would like to know more.
+
+I work for Matt Levy, VPE at BetterDoctor, and would love to introduce you to him.  We're currently hiring for two senior roles on the team, to help lead the development of our core Platform and public APIs. Our Data API powers the real-time location-based data for our consumer users, and is used by hundreds of outside developers and a few very large enterprise customers.  We also build a number of tools for consumers to find the best doctors, insurance, and pricing.
+
+We're big fans of Rails, javascript, python, NoSQL and distributed data aggregation, and have built a custom cloud infrastructure on AWS.  Let me know if you might be open to chatting with Matt about the team and tech.
+
+I just wanted to check if my earlier email came through ok?
+
+It would be great to grab your thoughts.
+
+I noticed that you are interested in functional programming and Scala, are you considering new opportunities?
+
+As a brief introduction to www.functionalworks.com – we specialise in placing functional programming talent into industry across the US.   There is more about the work we do on our website and also Twitter (we are pretty active tweeters) and finally if you think that all looks of interest we produce a monthly Newsletter which is full of news, events and jobs.
+
+We work with companies who passionately believe in the use of the functional languages and have technology at the heart of what they do. Our clients include world class hedge funds who work at the absolute cutting edge of technology and some of the world's most exciting start-ups and tech companies including Jet.com, Adaptly, Spotify, Chartboost, and eBay to name a few. At the moment we have roles open across the US using Scala, Clojure, and F#. You can check out our job board here!
+
+What sort of projects are you involved with at Twitter? Do you get to use Scala much? We have a great deal of insight into FP hiring and if you are ever interested I would be happy to share company hiring plans, technology stacks, peer groups and emerging projects (although I am sure you are pretty up to date).
+
+I look forward to hearing from you.
+
