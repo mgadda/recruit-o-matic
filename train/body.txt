@@ -557,3 +557,565 @@ What sort of projects are you involved with at Twitter? Do you get to use Scala 
 
 I look forward to hearing from you.
 
+Do you have an interest in discussing a Senior Ruby on Rails opportunity at an exciting Enterprise Cloud Security Start-Up in SF this week at 1pm, 1:15pm, 1:30pm, 1:45pm, 2pm, 2:15pm, 2:30pm, 2:45pm, 3pm, 3:15pm, 3:30pm or 3:45pm PST?  If so, what time works best and what is the best number to reach you at?
+
+You'll get to work on exciting, challenging, and cutting edge engineering problems in the multi-factor authentication space using Ruby on Rails!
+
+The startup has a world-class engineering team!
+
+The startup has over 150 employees and is growing fast!
+
+The startup has raised over $40,000,000 in funding from top investors and has one of the most promising products in the enterprise security space!
+
+In follow up to my previous message, I would like to invite you to a conversation. I want to learn more about your as much as I hope you would like to learn about FiveStars. 
+
+Please read this TechCrunch article about us, our mission, and goals. This is one of those companies that you will be hear more and more about over the next couple of years, especially in the loyalty/smart shopping space (we’re one of the 10 awesome companies hiring now in SF!). And most importantly, you can be the person owning and creating our newest user and merchant experiences.
+
+Can we jump on a quick 15 minute call? Even in the worst case scenario that you’re still not interested in FiveStars, you’ll know more about what other exciting startup teams are doing the market, and be better prepared for a future move. 
+
+I hope you can appreciate my persistence :)
+
+Just so you know, I did a very targeted search for this role and your profile is one of only a few that popped up.
+
+So, if you're at all interested let me know, I'm confident the VP of Engineering will want to talk to you.
+
+I know you get a lot of messages so I’ll get right to the point: are you open to a new job?
+ 
+If so I have a role that seems like a really good fit, here are some details:
+
+Work with Ruby, Rails, Git, AWS, non-relational and relational databases
+
+Build a globally scalable infrastructure capable of process thousands of requests/second
+
+Write microservices and APIs for new features and products
+
+Full time position, competitive base salary plus equity 
+
+Just checking in here since I know things get busy and emails get buried.
+
+Are you at all interested in this position?
+
+If so, just let me know and we'll set up a call so I can give you more details.
+
+I wanted to follow up on the message I sent a couple days ago, did you see my email?
+
+I hope all is well. Quite some time has passed since our last correspondence to you. We at Airbnb remain enthusiastic about you here; I'm hoping now might be an opportune time to get acquainted. 
+
+Based on your trajectory w/ Twitter and combined role in leadership and development, I believe you'd add great value to several teams here. Airbnb's mission is to continue being at the forefront of technology and innovative travel agent of the future; Trust is what makes it work. Your experience in solving complex problems and development will have a great impact in protecting our offline/online communities, as well as growing our engineering teams. That's amazing to think of! :) 
+
+Before delving into specifics, it would be great to learn more about your current interests and future career plans, so that I may provide you with relevant information re: teams/impact. 
+
+I look forward to connecting.
+
+Hope all is well!
+
+I am currently working closely with the Winklevoss Twins in New York who are currently building Gemini. What is Gemini? The next generation digital asset platform built for businesses and investors. Check them out .. www.gemini.com
+
+They are on the search for engineers of all levels from junior to senior who are interested in the wonderful world of Scala. Whilst it would be amazing to have commercial Scala Experience, Gemini are happy to get you up to scratch : ) .
+
+Paying up to $175,000 + Benefits + Equity.
+
+Would you be open to learning a little more?
+
+Just a quick follow up on the previous email I sent across yesterday. What did you think? Would you be open to learning a little more?
+
+My name is Michael Gray. I am with the Talent Acquisition team at Munchery. Based on your LinkedIn profile, I believe you would be a great fit for a Lead Software Engineer or a Senior Software Engineer opportunity that we have available right now.
+
+Would you have time for a quick chat with me (approximately 15 minutes) so that we may get to know each other and I can better understand your motivation for your next potential job opportunity?
+
+After that, I can get the ball rolling for you on my end and get you into the interview process with Munchery very efficiently and provide you with updates and next steps.
+
+Thanks for your time and I look forward to our conversation.
+
+Hope you're having a great week so far. I came across your profile and I was very impressed by your success at Twitter. I think you would be a great addition to our engineering team here at LendUp. Are you open to a new opportunity?
+
+LendUp’s mission is to provide anyone with a path to better financial health. Through our proprietary software, we design safe, transparent products that provide credit building opportunities for the 56% of Americans who currently have limited options within the traditional banking system because of low credit and income volatility. We are backed by more than $320 million in equity and debt financing from investors including Google Ventures, Victory Park Capital, Y-Combinator, QED Investors, Susa Ventures, Data Collective, Kleiner Perkins, Andreessen Horowitz and many others.
+
+We are looking for a talented Principal Software Engineer to join our team and immediately contribute to a truly impactful product for the underserved in our community. Our engineering team is currently working on some exciting projects that include building a new, distributed payment infrastructure to handle millions of real-time and batch transactions, building a new authorization service to provide strong consistency between user action and payments being made, and building ETL pipelines for all financial transactions with Airflow.
+
+Interested in learning more? Let me know when you have some time to chat.
+
+I wanted to follow up on my previous messages to you regarding senior full stack engineer roles within our Growth team, building new product features for our Houzz site.
+
+Houzz is a startup with 40M monthly unique active users, over 1M professionals, and an international presence across 13 countries. We're a market leader in the massive home design/renovation industry and growing fast.
+
+I'd love to give you more information about the role, team, and the exciting things that we have in store for 2017. Let me know if you're open to have an informative chat. :)
+
+Imagine creating a platform that allows the small businesses that you frequent the most to develop a personal relationship with you. Imagine that you receive rewards for your patronage. Imagine that at scale, this platform will increase loyalty and retention, customer acquisition, provide marketing, and deliver promotions to tens of millions of people each month.  
+ 
+Given your background and experience building great software, I’d love to chat with you about joining our team here at FiveStars as a Senior Software Engineer in San Francisco.  In this role you’ll plan, design, and implement new features in our merchant and consumer applications and write high quality code in Python and JavaScript across the stack.
+ 
+We’ve raised $105 million in funding over 5 rounds from 14 investors. In 2016, we scaled our monthly subscription-based platform to 12,000 merchants and 18 million consumers which drove 54 million in-store visits - 2017 is shaping up to be even better! Our HQ is in San Francisco but we are also hiring Seattle and Austin. 
+ 
+As a member of the FiveStars team, you’ll enjoy a company and community that gives everyone power and lets you do great work. You’ll work with leaders including Zach Shubert and Hetang Shah, to build and scale amazing products for consumers and local businesses.
+ 
+If you’re interested in learning more, I’ll welcome an opportunity to speak with you. 
+
+I know you’re busy, so I’ll keep this short and sweet. It's awesome to see that you're the tech teach for Twitter's B2C Engineering; here at Thumbtack, we're working to connect professionals with customers in the local services marketplace.
+
+We’re looking for a high-level software engineer to work alongside RVP and Mark Schaaf, here at Thumbtack in SF. We have high-impact engineering challenges, from building a ton of new product features inside our marketplace to new recommendation systems, monetization points and real-time data-driven systems. 
+
+The team is very interested in getting to know you and your background. I would welcome the chance to help create an opportunity for you to connect with folks here. 
+
+I’d love to set up a time to chat. 
+
+Hope all is well. My name is Lina Vixaychack. By way of introduction, I am a career data analytics professional and Senior Analyst at ePeak, a consulting firm with a focus on software engineering. You may have seen some other software development opportunities from us in the past; however, I wanted to reach out directly as well.
+
+The main purpose of this email is that we are currently working with a global high-tech client in the Chicago, downtown area and looking to bring on board a talented Software Engineer. Management is considering multiple experience levels from software engineer to architect.
+
+Our client is a global leader in mobile navigation communications and is building out custom software infrastructure to support cutting-edge mapping and autonomous driving technology. We are currently engaged in several large projects on-site and I cannot say nicer things about this team.
+
+This is a traditional on-site position with a standard Monday - Friday schedule, remote work and travel is not an option. Of course I realize that you do NOT live in the Chicago area, but perhaps you might be interested in relocating to this wonderful city for a long-term contract-to-hire opportunity.
+
+Due to the nature of the work environment we can only consider US citizens or GC holders for this role. No sponsorship will be provided.
+
+I completely understand that you may not be in the market right now. If that is the case, I would like to ask for your assistance. Is there anyone you could recommend for this position? We have an excellent referral program and I would tremendously appreciate it.
+
+If interested, please send us your resume (please don't worry about updating), I will review and immediately follow up with you.
+
+I realize you're super busy but wanted to follow up regarding my previous email.
+
+I didn't get a response from you so perhaps Natera, Health IQ, Healthtap, and Ladder aren't of particular interest to you?
+
+If that's the case, I have some earlier stage startups and SouthBay locations that may be relevant. Would you want to see some alternative Series A and Seed options?
+
+If things are going swimmingly well at Twitter, I absolutely respect that but hope that we can keep in touch.
+
+Have a good rest of your week,
+
+I know they treat you pretty well at Twitter but I'm hoping I have a role that will entice you to take a closer look.
+ 
+I'm recruiting for AirBNB and Asana, as well as many other smaller tech companies in the Bay Area. Given your really impressive start to your career, familiarity with the whole stack, and great educational background, I wanted to see if you were open to new opportunities? I think you would be perfect for some roles I am currently working on for a few clients: Natera, Health IQ, Healthtap, and Ladder.
+ 
+I can tell you a few tidbits on each position including total comp range /equity /etc if you have a few minutes to chat offline.
+
+I’m hoping you’ll be up for connecting about a Sr. Backend Engineer role at Hover. You’d be joining an early-stage company that is well-funded and already generating strong revenue, but also a startup that is doing something really unique! 
+
+Via cutting edge deep learning and computer vision technology, Hover allows anyone to create accurate 3D buildings by simply taking a handful of photos with their smartphone. From home improvement to commercial property management and insurance, the goal is to change the way you see the world by building the world’s most comprehensive and accurate database of physical properties. 
+
+Here is a bit more info below. Please reply if you are interested in discussing further.
+
+I just wanted to reach out one last time regarding FiveStars and our full stack  role. If you're interested to help bring technology and personalization to small business owners, this will be the time and platform to make that impact. 
+ 
+I hope you'll share a few minutes of your time to speak with me in more detail. 
+
+Money, Growth, Learning - All are important factors in evaluating new opportunities. You have an opportunity use your time to learn about engineering roles at FiveStars and how you can apply these three factors to yourself while building our small business platform.
+ 
+If you’re interested, we can schedule a few minutes to chat at the earliest convenience. 
+
+I wanted to reach out because your engineering background aligns with our search for a senior full stack engineer at FiveStars. I’m working with Zach Shubert, our VP of Engineering at FiveStars, to identify the next engineer to impact our community. We’re about to launch several new products, so it’s an ideal time for a senior engineer to own the development cycle.
+ 
+We’re at series C and have raised over $100 million so far
+
+FiveStars is a rewards and marketing platform for local businesses and communities they serve. We’re in the business of creating a personalized experience between consumers and small businesses, and we’re doing a great job and continue to grow, with 12,000 businesses and over 18 million consumers. 
+
+Our stack is Bootstrap with Angular, Django, Celery/RabbitMQ 
+ 
+You'll work in a multi-disciplined scrum team to plan, design and implement new features for our merchant application. If you’re interested in learning more, I’ll welcome the opportunity to speak with you at the earliest convenience. 
+
+You probably didn't see my last message, so I just wanted to follow up about UI at Lending Club.  We're the industry leader and are doing a major re-brand and re-platforming our tech stack.  (read: a killer chance to create something new and roll it out NOW.)
+
+Would love to share more with you and get to know you.  Please let me know a few times and the best number to reach you.
+
+I’m reaching out on behalf of our senior engineering leadership at Uber. We are in the process of building out high impact staff level engineering teams with the goal of leading projects and tackling the most complex engineering problems Uber has faced as a company thus far. These teams will be made up of some of the most talented individuals in tech and you’ve been identified as a potential fit.
+
+If you’re interested, we’d love to hear from you! Our directors and managers are open to informal phone calls/ coffee chats so, feel free to reach out any time.
+
+I reached out to you a couple weeks ago and just wanted to check back in. Would you be interested to chatting with us about new opportunities here at Uber?
+
+A lot has changed over the last year and we are in a much better position as a company. We are building out a few new teams and gearing up for the largest period of growth Uber has ever seen.
+
+Are you available for a short introductory call sometime this week or next week?
+
+Timing is everything while recruiting the most talented engineers in the bay area so I'm hoping this final email will catch your attention. Please get back to me if you may be interested in having a quick chat to discuss some really cool projects we are working on at Uber and if you have no interest in exploring new opportunities, kindly let me know.
+
+I wanted to follow up on my previous messages to you regarding senior Front End Engineer roles at Houzz, building user-facing features on our Houzz site.
+
+Houzz is a startup with 40M monthly unique active users, over 1M professionals, and an international presence across 13 countries. We're a market leader in the massive home design/renovation industry and growing fast.
+
+I'd love to give you more information about the role, team, and the exciting things that we have in store for 2017. Let me know if you're open to have an informative chat. :)
+
+Your work on the Commerce front-end team at Twitter impressed my team.
+ 
+I am on the founding team at LogicHub -- a Security Intelligence Automation startup that helps security teams capture and automate the investigation process used in threat detection. We thought you would be a great fit on our team as a Front End Engineer.
+
+There are two really interesting technical challenges here - massive data processing and intelligence automation. Typically enterprises generate terabytes of security data every day from applications, devices, systems and so on. In order to detect an advanced threat in this sea of data, our systems need to be very easy to use, performant and scalable. You would be one of the first engineers on the growing team. This is a great opportunity to be in a position to help shape the product, develop v1 features and work with cutting edge technology.
+
+We have $8.5 million in funding from Storm Ventures and Nexus Venture Partners. Our founding team has deep domain experience building products in the security space for 15+ years from companies like ArcSight and Sumo Logic.
+
+Do you have a few minutes next week for a quick call?
+
+I sent you a note about being an early engineer on our team. The team is working on the first version of our Intelligence Automation product. This role would be an awesome opportunity to build v1 features of the product and have a say in the shape/direction. 
+
+Does it make sense to setup a call to talk a little bit more about the role?
+
+I was just wondering if you had a chance to see my message :).
+
+I just wanted to try one more time and see if you wanted to learn a little bit more about what we are doing over here. You can always say no...
+
+Like you, I'm an engineer. I was VP Eng at a late-stage startup until June 2016, when I started an AI-driven engineering career development platform - Celential.ai. I'd love to help you now or in future with our platform and our expertise, connections, and access to opportunities.
+
+If you seek (i) a team with strong pedigree that leads prominent open-source projects & builds product-specific infrastructure technology (ii) a team heavily backed by top VCs and (iii) a team solving a critical business problem by allowing users to access data & extract insights from disparate sources, the opportunity is here. This team solves challenging problems re distributed systems, query processing/optimization, data replication/caching, large-scale data processing, data visualization, and more.
+
+Given your work with Twitter and your experience in C#, C++, CSS, CSS3, CoffeeScript, HTML, HTML5, JavaScript, Scala, ReactJS, MySQL, PostgreSQL and Git, I thought this would be a great fit for you. There is a lot of common background between you and the engineers here. A good number of them have worked at Twitter too. Free for a quick coffee or chat this week? Kindly reply to this email for a quick response.
+
+A brand-new engineering role (mostly Ruby/Rails on the backend and other technologies) just landed on my desk and I thought of you! It's with Hover, a well-funded startup in the computer vision space that creates full 3D reconstructions, all with an easy-to-use app. I think you'd make a great ground-floor addition to their small (but rapidly growing) engineering team. I've included some light info for you to peruse, and I'd be happy to send over the role description.
+
+Via cutting edge deep learning and computer vision technology, Hover allows anyone to create accurate 3D buildings by simply taking a handful of photos with their smartphone. From home improvement to commercial property management and insurance, the goal is to change the way you see the world by building the world’s most comprehensive and accurate database of physical properties. 
+
+Anyway, let me know if you have a few minutes to chat - my partner and I would love to answer any questions you have. Hope you're having a lovely week!
+
+How are you?  I hope this finds you well & blessed!
+ 
+My name is Brandon and I’m a Partner with ESP.  My firm has been retained by Glooko in Mt. View to help them find a Principal Full-Stack Software Engineer.  I came across your profile, hope you don’t mind me reaching out.
+ 
+Glooko is an innovative, Silicon Valley based SaaS software company founded in 2010 with a unique mobile health and population management diabetes disease management solution.  Glooko has significant traction with customers, strategic partners and has global market access.  Additionally, Glooko is funded by some of the top tier venture, strategic investors in healthcare;  e.g., Canaan Partners, Social + Capital, Medtronic, and Samsung.
+
+If you’d like to discuss this role further, let me know the best # to reach you on and what your schedule is like over the next few days and we can set up a time to chat. Thanks Matt, looking forward!
+ 
+My name is Eugene and I'm on the talent team here at Counsyl, We are a health technology company using software, big data, and the internet to solve genetics problems that scale to global access and benefit.
+
+With your notable mix of front-end & back-end experience, you will enjoy being part of our high caliber engineering team, where you will tackle the challenge of making genomics truly accessible through creating a state of the art user experience, continue to scale our infrastructure and develop robust data pipelines to solve key workflow problems in large complex health systems.
+
+Why Counsyl?
+
+Carrier screenings, reproductive health, and cancer screenings are crucial in our future and we're at the forefront!
+
+We are already making huge waves; our product won the Wall Street Journal’s Innovation Award for Medicine, and was named one of Scientific American’s “Top 10 World Changing Ideas.”
+
+We just went International!
+
+What's your availability to jump on a quick call to discuss the opportunity sometime this week?
+
+I wanted to reach out to you as we love people who have your level of expertise, and I feel that you can add a great deal of value to Credit Karma!
+
+Right now we are rolling out new products that have never been created before. We are in need of engineers who can make an impact across several of our teams, as well as providing technical leadership. 
+
+Let me know if you'd be interested in hopping on a call with me to learn more about opportunities here at Credit Karma. 
+
+I do apologize for the direct message, hope you enjoyed the day.
+
+That being said, I wanted to circle back and check in. Your name had surfaced in regards to a specific new search that I am working on for the Quant Trading space and I wanted to reach out to provide some more details.
+
+We're looking for an exceptional software engineer to join a team and our client is happy to offer guaranteed increases in compensation (30-50% depending on experience) as well as buying out expected bonuses/stock. Your unique skill-set makes you especially qualified for this role and I think you would be a great candidate. 
+
+If you have some time for a quick chat, just select the best day and time from the link below or let me know when might work best. I look forward to speaking with you!
+
+Good morning!  I Just wanted to check and see if you saw my earlier email? Would love to connect over the weekend or perhaps early next week.
+
+Your front end experience is exactly what my client Snowflake is looking for in a Lead Fullstack Engineer. Having worked on web applications, I'm sure you're aware of the issues involved with performance and scalability as well as making complex areas easily accessible to customers.
+
+Snowflake is reinventing the data warehouse to enable businesses to store, transform and easily analyze business data. This is a cloud based application and you'll be working with a very talented team to solve problems around distributed systems, data encryption, metadata storage, cloud infrastructure, etc. 
+
+Let me know if you're interested!  When are you free to talk?
+
+If you're still not sure if you want to talk, I hope you'll still consider getting on the phone for a quick chat with me!  There won't be any further commitment without your explicit consent and it'll give us the chance to see if we have any opportunities you'd like.
+
+And as a thank you for reading the email to the end, here's a History fun fact!  The Benandanti were an order of good witches in the 16th and 17th centuries who claimed travel out of their bodies while asleep to do combat with malevolent witches in an attempt at protecting their crops and harvests.  Despite their good intentions, they were promptly hunted down and persecuted along with the witches that they claimed to stand against.
+
+I hope your week is going well. I'm reaching out because I came across your profile and you've been doing some interesting work at Twitter. We recently announced $81.5 million in Series D funding led by CapitalG and are looking to bring in more software engineers across the stack as we grow in Santa Cruz and San Francisco. We were just voted one of the 2017 Best Places to Work in the Silicon Valley Business Journal and I am hoping we can find some time to connect this week to talk a little more about what you are up and what Looker has going on. 
+
+At Looker, we believe everyone should be able to access, explore and understand the data that drives their business. We are a modern data platform that leverages today’s best data technology to let users make better business decisions. Our customers can drill deeper, ask more and share their data easier. 
+
+In 2016, Our revenue nearly tripled while adding almost 400 new customers, including IBM, Hewlett-Packard, The Economist, Amazon Prime Now, Nordstrom, Square, Hearst, AthenaHealth, Casper, Red Bull, WeWork, Indiegogo, Giphy and Thrillist. More than 40,000 Looker users at over 800 companies around the world combine to use Looker for 30 million minutes each month.
+
+Let me know when you have some time and we can set up a call. 
+
+Sorry for the direct and continuous messages but this about a specific search I am working with a small (100 person) highly quantitative, research driven trading firm in Chicago, San Francisco and New York City who have an incredibly unique environment including engineers from Google, MS and Apple. They are looking to grow their engineering and research teams. The guys are all social and highly motivated individuals who were top performers at there previous firms but wanted to be in a smaller firm where they can have a huge impact! It's not the usual firm and definitely an opportunity that doesn't come around often, to give you an idea we've placed the last 25 people at the firm and are the only search firm to work with them. If you are open to hearing more about this opportunity use the link below to select a day and time that works best for you, I can assure you it won’t be a waste of your time and you’ll be very impressed!
+
+I'm sure you get this all time time - I came across your LinkedIn, blah blah, I love your experience as Staff Software Engineer out of Twitter working with blah blah, I have this awesome opportunity, blahhhhhhhhhh
+ 
+This is different. It take a unique approach to bring on the level of seniority that I work with, so I hope by now you can trust that I'm most likely not a robot, and that this isn't spam. If you're considering a move or just keeping an eye on the market, I'd be happy to lend a hand.
+
+My name is Graham and I'm with the talent team at NerdWallet. I believe that my colleague got in touch a while back but I wanted to check back in since it’s been a while. If you're not familiar or don’t remember, NerdWallet is building a platform that aggregates and distills the world's financial data from thousands of sources with the intent of simplifying personal finance for everybody. We have millions of users, we’re profitable, and have an awesome new office in San Francisco.
+
+I’m reaching back out because we’re continuing to build the core engineering team and are very impressed with your background. I assume that you're not actively looking, but I'd welcome the opportunity to tell you about some of the exciting new initiatives underway here.
+
+Would you be open to connecting sometime?
+
+Hope you’re doing well. I’m following up to see if you have any questions. 
+
+At Vettery, we run weekly showcases where we feature some of the best tech candidates in the area who are interested in exploring opportunities (both passively and actively). As a candidate you have the ability to accept or decline each interview request you receive from our clients, so it is super low commitment, and a great way to just see what's on the market.
+
+Are you available for a quick call sometime early next week? 
+
+Hope you've had a great week so far. Just wanted to follow up and see if you were available. We'd love to tell you more about Vettery and learn about your background. Would you have a few minutes for a quick call sometime this week?
+
+I wanted to reach out and tell you about some offers you can explore through Vettery.
+ 
+We’re a 40 person team based out of San Francisco, LA, and NYC. We work with some of the best SF tech companies from early stage to IPO, and our mission is to discover the best talent and introduce them to their dream jobs.
+ 
+Are you free sometime today or tomorrow to connect? Let me know a couple of times that work, and the best number to reach you at. 
+
+Sorry to bother you, hope you had a stellar weekend.
+
+I was just wondering if you saw the messages I had sent recently?
+
+Simply wanted to give you information regarding one of my clients who has offices in NYC & SF who are a well-established quant fund and I’ve placed over a dozen engineers there. I wanted to tell you they have unlimited holidays, people work hours they are comfortable with and they manage over 20 billion dollars. The fact the company is only 160 people means there is a lot of freedom and ability to work with some of the most talented engineers and researchers.
+
+If you’re interested, please let me know what day/time works best or simply find a time below. It would be my great pleasure to speak with you, looking forward!
+
+I hope you are doing well! I wanted to follow up on an email that I sent you a couple of weeks ago. I support recruiting efforts for the Special Projects organization at Amazon Web Servies.
+
+I believe you would be not only a valuable addition to this team but that the team also has a lot to offer you.
+ 
+The start-up feel of this team is just the place to shine as an individual contributor and work on something that is completely new and innovative. The team, led by Adam Bosworth, is working on state of the art initiatives building a new product line from the ground up. This is an exciting time to work on a V1 that will change the industry!
+ 
+If you are open to learning more about this new and exciting opportunity, I’d love to set up a short informational call with our lead recruiter to learn more about your background and to share details about the team and roles. We are hiring for our offices in San Francisco, Cupertino, Seattle, and Vancouver. I hope to hear from you soon!
+
+Hope you're having a great week!  I'm reaching out because one of my favorite clients is looking for a Sr. Engineer.  I thought if the time is right you may be interested in looking into their product and team?  :)
+
+HOVER is a mobile platform that lets anyone generate digital 3D building data by simply taking a few photos with a smartphone.  They've raised over $20M from some of the top investors in Silicon Valley and offer a competitive salary and equity compensation.  Let me know if you'd like to hear more about them!
+
+Are you ready to explore job opportunities? Top tech companies are looking for people like you on Indeed Prime. Sign up for Indeed Prime in just 5 minutes. It’s free for job seekers. :) 
+
+I came across your profile and loved what I saw! I’m reaching out to you because you seem to be a stellar fit for a brand-new iOS engineer role I have with Autolist, a profitable and fast-growing startup that has built the first mobile-optimised, end-to-end automotive marketplace.
+
+I’d like to invite you to a simple interview process for the opportunity to join while the team is still small and intimate. The company is still small and growing, so joining the team now ensures you immense growth potential, a high-impact role, and high visibility for your contributions. In addition, Autolist is offering very competitive compensation and equity package, which doesn’t hurt.
+
+Sorry to bother you again, thing is I am working on what is really an amazing opportunity and just wanted to get through to you as I think you can be a great fit!
+
+Our clients are a highly successful quantitative trading fund in New York with offices in London that is very unique in the sense they manage several billion dollars but the majority of the assets are employees’ money and the returns are circa 20% which is one of the highest in the world.
+
+They are driven by technology and research and use some of the most advanced yet sophisticated methods across the company. The firm is 150 people and headquartered in NYC with an office in London, they are specifically interested in hiring a couple of experienced technologists from outside of finance. The head of engineering was previously the head of engineering at Vine and a senior staff engineer at Google so they can definitely attract top talent and will pay above market to hire the top 1%.
+
+Feel free to find a convenient time in my calendar (link below) so we could discuss more about the company and your background to see if there could be a fit? Look forward to speaking soon!
+
+I wanted to follow up on my recent email.  We are currently looking for iOS Software Engineers for our mobile engineering team at Pandora.  Your background at Twitter could be a great fit.  Are you up for a new challenge? 
+
+Remember, Pandora has more than 78 million active users monthly, logging more than 5 billion listening hours!  85% of those listening hours are happening on mobile and connected devices.  We are poised to embrace a number of key opportunities for continued success in 2017 and beyond.  We'd love for you to be a part of it. 
+
+I hope you had a great weekend! 
+
+I came across your LinkedIn profile and I was super impressed with your experience. I'm not sure if you are looking for a career change, but I would love to chat with you about some of the engineering opportunities here at Dropbox.  
+
+I came across your profile and loved what I saw! I see that you're at Twitter working with a versatile blend of web and mobile technologies... very impressive. I’m reaching out to you because you seem to be a stellar fit for a brand-new fullstack role I have with Autolist, a profitable and fast-growing startup that has built the first mobile-optimised, end-to-end automotive marketplace. 
+
+They actually hold the #1-rated car-shopping app in both app stores and have already generated tonnes of traction. Here’s a little info about the team:
+
+The company is still small and growing, so joining the team now ensures you immense growth potential, a high-impact role, and high visibility for your contributions.
+
+Let me know if you'd like to chat!
+
+Jotter is revolutionizing the way teams interact in the construction industry, a trillion dollar vertical. We are exceptionally well funded, and searching for top engineering talent. We're hiring for front end, full stack, and back end engineers. 
+
+Would you like to help us build our next gen mobile collaboration and project management system? This will be a complete rebuild from the ground up, and will incorporate major new features and functionality. You will be part of a very small, high performance team, so you'll have full ownership of your projects. 
+
+Would you like to set up a conversation so we can share more details? If so, when can we talk? 
+
+I reached out to you about a Lead Software Engineer position for Munchery in the Bay area two weeks ago, and I'm following up because our engineering team could really benefit from someone with your diverse full stack experience across both web and mobile. Your skill with Rails and the sort of web development projects that you worked on at Catalpa Labs are especially relevant as well. 
+
+As our lead software engineer, you'll guide a largely autonomous team of fourteen and have a hand in shaping our engineering vision by taking ownership of everything from the development of our mobile apps to the architecture of the web application. 
+
+We're gearing up to work on some interesting, unannounced tech soon, and the skills you gained at firms like Le Tote would be invaluable to the team. I'd love to learn more about your background and what you're looking for in your career. When would be a good time to chat?
+
+Thank you in advance for your time!
+
+Just wanted to follow up with you here on Benchling. For a bit more context:
+
+Each year, pharma companies spend around $5 billion to bring one drug to the market, and the industry spends around $150 billion on research and development through a multitude of programs. The problem is, a lot of the gathered data must be manually updated and shared across many different digital resources, wasting time and money. Using Benchling, a biologist or anyone in pharma, can plan an experiment in a digital notebook, complete with integrated calendar entries and to-do lists. They then can use an interface that combines 10 or more different molecular biology apps, plasmid visualizations, sequence repository, and genomic library to annotate DNA. Long story short, Benchling makes the most important industry for mankind do their jobs easier, faster, using less money along the way.
+
+Obviously they are growing, and while there's a solid chance you aren't looking - let me know if you'd like to hear more and we can figure out a time to exchange more information
+
+I'm a tech recruitment manager and simply put - nobody in your field is going to look for a job unless it's rare, motivational, and challenging. I'm emailing you because I'm working with Benchling, the biotech company, and I think it's worth your time to read through if you're interested in something with a real purpose.
+
+They build the software layer that powers all biological research. The software you can help them continue to build is helping solve some of our worlds biggest challenges like disease, clean water, energy, and hunger. They build tools to help the science community access research from big pharma and other leaders in the space. When they started in 2012, they were a cloud collaboration tool for scientists - and have now grown to include more than 40,000 researchers (up from 2k in 2014) and now work with some of the biggest people in the space like MIT Labs, Zymergen, Editas and the top twenty pharma labs in the country.
+
+They are looking for a full stack engineer, someone with a similar background and career trajectory as yourself, to join their growing team. With about fifteen engineers right now, they see expansion coming on the horizon. They want engineers who come from product driven backgrounds, who can not only build the backend APIs but also help build the interface, all while being excellent with technologies such as Python, Flask, React and Flux. Typically, they hire agnostic developers who shape their way into the Benchling stack, so keep an open mind regarding the specific technologies.
+
+I am the Lead Technical Recruiter at Coupa Software and we are looking for a Lead Rails/Fullstack Engineer to join our growing, dev team. You would be responsible for developing the building blocks to scale our cloud platform for our growing customer base with Ruby, Rails, Go, Docker, etc. while mentoring and leading a small junior dev team. We have experienced 100% yoy growth the past 3 years and are still in our visionary infancy which would allow you to have a true impact on our organizational and product direction. 
+
+Coupa is currently one of the few companies in Silicon valley who went public in 2016 so there is a huge financial up side to joining us now. We would offer you a competitive salary, bonuses, RSU's, and our top 5% ranked benefits package in the Bay Area. 
+
+Let me know if you would like to chat!
+
+I’m a former software engineer and VP of Engineering, and these days I run a technical search firm focused on helping engineers like yourself find meaningful work with mission-driven startups.
+
+Good Eggs is a San Francisco startup that’s a bit like an Amazon for local, organically farmed food. They’re a truly stellar team looking for talented engineers who are passionate about the Good Eggs mission. 
+
+If you join them, you’ll be building next-generation full-stack mobile applications using Swift (and ReSwift) on the front-end and NodeJS on the back-end. (But you don’t need specific experience with NodeJS to qualify, and Objective C is also acceptable experience for the front-end.)
+ 
+The compensation range is around $135k-$175k plus benefits and stock options, and locally sourced team lunches made by onsite chefs (and I can personally vouch for the tastiness of this perk!).
+
+Could this opportunity be of interest to you? The next step would be for you and me to have an intro call (about 15-25 minutes), which you can book by clicking here.
+
+FWIW, in this role, you will work on a product that gives researchers and analysts everywhere access to unequivocally the largest healthcare claims dataset available. With access to our data, they are able to further their own research to improve consumer healthcare. Given the current state of our administration of healthcare policy, the more we can empower others with our data, the sooner we can see improvements to personal care.
+
+We're working with one of the most complex and vast datasets in health care. Ten years ago, all healthcare data was analog — but even as it transitioned to digital, data standards didn’t exist, especially for electronic medical records. Considering this complexity at the scale in which we're working, it poses an interesting problem set. Our team has a huge challenge ahead of them trying to navigate and make sense of the black box we call the American health care system, with the goal of connecting people to the best health care possible.
+
+If this isn't a good time for you, I totally understand. If you know any engineers or data scientists who are interested in the intersection of consumer healthcare and tech, I'd really appreciate you passing along my name. Feel free to add me on Linkedin and we can stay in contact that way.
+
+I hope you have been well! My name is Devin, and I run the Platform Engineering Team at Nitro. I am looking for a Principal Platform Engineer to help me in streamlining the new product line here at Nitro. So, I thought I’d reach out to see if it’s something you might be interested in.
+ 
+A little about Nitro: Aside from having a great product and engineering team working with cutting edge technologies, we also have a very strong and unique culture built on a "no bullshit" and "be good" attitude. You can find more about my team here. I would love to meet up with you for a beer/coffee chat to tell you more.
+
+I sent you an email recently about the lead/senior full-stack engineer role at FiveStars in San Francisco, CA. I just wanted to see whether you had had a chance to look over my original message and to consider this opportunity.
+
+A lot of people think we're just another loyalty/smart shopping company, but in our 6 years of existence, we have already built a network of 19 million users and over 12k merchants (and raised 100 million in funding!). And we just became one of the 10 awesome places to work in SF.
+
+Our next lead/senior full-stack engineer will be responsible for our newest and most innovative user products, as well as getting to lead our wonderful younger engineers.
+
+If nothing else, please read this TechCrunch article about our mission and plans.
+
+I would love to chat with you briefly and tell you more about what we're doing here at FiveStars even if you're not open to a career change at this time. Worst case scenario, you'll learn more about what other loyalty/smart shoppings teams are doing in today's market. What do you think?
+
+Happy Tuesday!  My name is Evgenia, and I am working closely with FiveStars’ Head of Engineering, Zach Shubert, to find our next senior team member who will also lead 3-5 of our engineers. Our next lead/senior full-stack engineer will get to own a lot of our newest merchant app efforts on our most important product while also getting to mentor our younger engineers.
+
+I'm reaching out to you because your experience at Twitter means that you already have seen how technology can positively affect small and medium-sized businesses in today's society.  Small and medium business empathy is what unites all of us as a company here at FiveStars simple_smile.
+ 
+In case you haven’t heard of us, FiveStars is a 300-person, $100 million-funded Series C startup in SF.  We’re really proud that in 5 years, we have built a loyalty network consisting of over 19 million users and 12,000 merchants that allows our business owners to keep track of their customers and offer them new incentives, while also introducing our users to great local businesses.  We help communities with small and medium businesses to even the playing field against big ecommerce and box stores by “turning every transaction into a relationship.”  We believe that there is a place in the world for both big commerce companies, that can provide you with cheaper goods, and for the “mom and pop” shops—like my mom’s hair salon—that can provide you with personalized experience and better service. 
+  
+We're pretty quiet about what is coming next, but I'd love to hop on a call at your convenience, learn more about your background and interests, and discuss whether this may be for you.
+ 
+Please let me know if you're up for an initial call. I'd love to connect.
+
+We reached out a couple of times in the past. I decided to wait a bit and then press reset, in the event things might have changed on your end.
+
+I like your background and I think you'd be in a position to make a huge contribution to our team, which is why I'm reaching out once more. As I mentioned in my prior communication; I was a member of the executive teams at Cloudera and MongoDB before I founded Krypton. Krypton is building a modern SaaS analytics and monitoring platform in the massive ($$$), obviously underserved industrial IoT space. Given our size and culture - you'd have significant influence on not only our product but our technical and company direction. I'd love to have a coffee or drink with you sometime to get to know you better. Thoughts?
+
+Thanks for taking a minute to read this message! You have probably seen some other software development opportunities from us recently. However, I wanted to reach out again as we have a brand new Principal Software Engineer opportunity and growing our team.
+
+The main purpose of this email is that we are currently working with a global high-tech client and looking to bring on board a talented Principal Software Engineer. Management is considering multiple experience levels from software engineer to architect.
+
+There is really only one major requirement for this role:
+
+Prior experience with building scalable, distributed systems or middleware in a multi-threaded environment.
+
+Our client, based in downtown Chicago, is a global leader in mobile navigation communications and is currently building custom software infrastructure to support cutting-edge autonomous driving and mapping technology. We are currently engaged in several large projects on-site and I cannot say nicer things about this team.
+
+This is a traditional on-site position with a standard Monday - Friday schedule; remote work and travel is not an option. Of course I realize that you do NOT live in the Chicago area, but perhaps you might be interested in relocating to this wonderful city for a long-term, contract-to-hire opportunity.
+
+Due to the nature of the work environment, we can only consider US citizens or GC holders for this role. No sponsorship will be provided.
+
+I completely understand that you may not be in the market right now. If that is the case, I would like to ask for your assistance. Is there anyone you could recommend for this position? We have an excellent referral program and I would tremendously appreciate it.
+
+If interested, please send us your resume (please don't worry about updating), I will review and immediately follow up with you.
+
+The opportunity to innovate, see your fingerprints on the product, and work with the best and brightest minds in the industry are certainly important reasons people join EverString. But employees stay at EverString for the unparalleled company culture.
+
+From cheering on our (undefeated!) corporate basketball team to dancing the night away at our annual holiday party to engaging in friendly competition on the go-kart race track, our team likes to have fun together. EverString's foundational core value "One Team, Goal" is built on the belief that teams who play together, stay together, and ultimately win together. 
+
+Is Tuesday morning or Wednesday afternoon, a good time for us to chat?
+
+Sorry for the cold contact, I’m currently working on a search for our client who is one of the most successful systematic/technology driven fund who has offices in NYC and SF. They’re looking for ambitious & talented software engineers to join their team who have interesting back end experience working on complex technical problems.
+ 
+I came across your profile, and for a number of reasons, I think you would be a very strong candidate.
+ 
+Our client generally would be able to offer incredible work life balance with compensation increases around 30-50% of current compensation (paid in cash versus stock or options), they are also happy to offer relocation bonuses and buy out outstanding shares.
+ 
+Would you be interested in discussing the opportunity further?
+ 
+I’d be happy to chat, please find a time in the link below!
+
+Your experiences with Twitter really caught my attention.  Join our award-winning cross-functional team as our Data Engineer, to build and scale a platform that empowers the sales and marketing teams at companies like Box, Microsoft and MongoDB.
+
+Whet your engineering appetite with over 1.3 trillion data points covering 18M+ companies, 90M+ business people and enabling customers to build 1400+ proprietary models.  An EverString engineering unicorn has the business and engineering acumen to be a champion of data-driven engineering across the entire organization. 
+
+Is Monday morning or Tuesday afternoon, a good time for us to chat?
+
+I wanted to follow up on my previous messages to you in hopes that, with the new year, you might be open to considering new opportunities as well.
+
+Houzz is a startup with 40M monthly unique active users, over 1M professionals, and an international presence across 13 countries. We're a market leader in the massive home design/renovation industry and growing fast.
+
+I'd love to give you more information about the role, team, and the exciting things that we have in store for 2017. Let me know if you're open to have an informative chat. :)
+
+How are things at Twitter? Your experience with Go and React caught my eye. Want to join Segment as a Lead Engineer on their Gateway team?
+
+Segment is providing companies with data infrastructure as a service. Their mission is to make it super easy for companies to use their data to build incredible products. Their API allows customers to integrate with their platform and have their real time customer data automatically send to over 200 data tools (400 by the end of the year). They are building one of the most interesting distributed systems out there. With a recent Series B of $27M, they have seen continuous revenue growth since 2013 and have 8,000 paying customers.
+
+Just wanted to make sure you received my email and it didn't end up at the bottom.
+
+I'm partnered with the top VC's (Sequoia, Greylock, A16Z) to help engineers like you discover new opportunities within their portfolio's that you may not be aware of. If you are interested in learning more grab a time on my calendar here (https://ron-deang.youcanbook.me/) and we can discuss which companies can help progress your career. 
+
+Let me know when would be a good time to chat or sit down and grab a drink, coffee, or even lunch - my treat! :) 
+
+We're in the process of expanding our Connected Systems Platform team at Tesla as we're getting ready to add more IoT related products to the mix (Model S,3,X, Powerwall, Powerpack, and SuperChargers).  
+
+If you're happy at your current job then please feel free to forward along to any of your colleagues who may be interested.  I'm seeking Platform/Backend Software Engineers as well as Full Stack Software Engineers - preferably with Ruby experience.  
+
+Didn’t get a response from you from my last email and figured I’d follow up; what’s a good time and number that you and I can sync up for a chat?
+
+My name is Aaron and I am currently supporting VMware’s ISBU under our Cloud Platform Business Unit (CPBU). I am sure you are content at Twitter, but we have an exciting opportunity just for you! 
+
+You will be working on developing a ground floor (v1.x) distributed, scalable, data center-wide distributed management system software to deliver on the promise of a software defined data center (SDDC) automated provisioning, deployment and operations of the data center infrastructure in public and private cloud.
+
+You will design and architect solutions and bleeding-edge products that will reduce costs and provide time-to-value to the customers with Hyper covered, pre-integrated and optimized bundle of hardware and software across networking, compute servers and storage.
+
+You will be responsible for design and implementation of high quality software micro-services for the life cycle management of these products
+
+You will work with latest trends in technology and frameworks that includes: Zookeeper, Curator, Puppet, github, Redis, Chef, Java 8, Spring, node.JS, HTML 5, etc.
+
+You will collaborate with some of the very best engineers to create simple solutions for very complex problems for tomorrow’s data center and cloud in our very own coveted, employee centric culture and environment.
+
+Your thoughts on taking the next step with VMware?
+
+Interested in learning more? Please reply with a copy of your resume and a good time and number we can connect for a quick chat?
+
+My team and I were talking about you this week again. We are hoping for the chance to meet up.
+
+I co-founded KryptonCloud, having spent 10 years building software for operations teams before joining VMware, Cloudera and MongoDB as a member of the exec team. At Krypton, we build modern monitoring and analytics software to help customers in the woefully underserved Industrial Internet of Things market solve some really hard problems. It's a huge market - 1.5x the size of the market Cloudera goes after - and you wouldn't believe how much the software in the "industrial internet of things" space still sucks today.
+
+I would honestly love for the opportunity to discuss who we are, what we do, and why I think you would be a huge addition to our team. Please let me know if you'd be up for meeting with us for a beer or a coffee to chat.
+
+We're Celential.ai, an AI-driven recruiting platform. You've been discovered by our platform as a strong engineer & potentially strong candidate for some of the exciting roles we're recruiting for on behalf of top tech companies/startups here. In particular, we would love to present to you an opportunity at Euclid Analytics, a high-growth startup backed by top VCs including Benchmark & NEA.
+
+You have impressive background: strong company - Twitter; strong startup experience - Twitter; strong school - University of Colorado Boulder (US); received 22 stars on GitHub; speaking 3 languages - English, French and Spanish. We like much of your skill set (for example, your experience in RESTful API, CSS, Ruby on Rails, HTML5, JavaScript and MySQL), and your experience at Twitter is particularly relevant. There is a lot of common background between you and the engineers at Euclid Analytics. Some of them have worked at Twitter too.
+
+This is a critical role at Euclid Analytics, and we strongly believe the move is a great step forward for you. It'll be much appreciated if you can confirm your interest so we can connect you with the hiring team shortly.
+
+If you're not interested in them due to location/etc, we'd love to present to you other great opportunities if you're open to it. Many thanks.
+
+Experis IT is currently seeking iOS Developers for contract-to-hire opportunities with our Fortune Top 25 client in Jersey City, NJ. I'm reaching out to see if you or anyone you know might be interested.
+
+Must be willing to work on site in Jersey City, no remote option offered.
+
+Must be USC or GC holder to be considered for contract-to-hire, per client requirements.
+
+Must have at least 2 years of large company experience.
+
+I'm the Director of Engineering for Investor Products at LendingHome and I'm looking for a very strong software engineer with diverse exposure to complex systems. We're growing really fast and can definitely benefit from your experience as we scale our systems.
+
+Currently, we have one monolithic Ruby app with React/Redux front-end. I need someone great to drive micro services based architecture and also build separation between front-end and back-end. With just over 2 years in with $109M+ in venture funding, the business is growing extremely fast (already funded more than $1B in loans) and someone like you can make a huge impact on our team to take us to the next level :).
+
+Rather than shove you into a job description, I'd love to dive into what you love working on and see if I can build a more specific role around you. Any interest in a quick chat?
+
+My name is David Carlisle and I work at Affirm, a San Francisco-based financial technology company founded by Max Levchin (co-founder of PayPal) and Nathan Gettings (co-founder of Palantir).
+
+We're hiring Engineering Leaders who are ready to help build and launch Affirm's future suite of products.
+
+Affirm's mission is simple: deliver honest financial products to improve lives and is listed as one of 5 start-ups to watch for 2017.
+
+Please let me know if you would be interested in hearing more about Affirm and the current openings to see if there's a good fit.
+
+Look forward to hearing back.
+
+Just wanted to check in and see if you were still interested in an opportunity with our team at Zinc. We're revolutionizing communication for deskless workers (the *other* 80% of the US workforce) who currently often use walkie-talkies and SMS.
+
+Our engineering team is small and product-focused team (currently just 7 engineers), all working cross-functionally - usually full-stack from feature inception to shipping. Based on what I've seen, I think you might be a good fit for engineer #8. 
+
+When would be a good time to chat in the next few days?
+
+Your name came up during a team brainstorm, so I thought I would introduce myself.
+
+I have a strong track record in building big software businesses from the ground up. As a leader, I've been successful in helping create new markets (starting pre-revenue and up) for VMware, Cloudera, and MongoDB. I founded a new company - Krypton - that is backed by some of the best names in early stage capital, including True Ventures and Stanford University.
+
+The company is introducing a SaaS analytics and monitoring product in a multi-billion dollar software market called the Industrial Internet of Things. The team is building software that allows customers to see, search and connect their real-time data from physical devices ranging from solar and wind farms to other real-world things reporting at sub-second intervals. The team is smart and small. The person we work with will have obvious and significant influence and ownership within the product and company.
+
+Let me know if you'd be up for meeting me for a coffee or drink sometime to learn more. Look forward to hearing back.
+
+I saw your profile on Linkedin and I noticed that you have extensive experience across the stack especially with Python and database architecture, and I think that you may be a great fit for a role that we are creating at Solvvy.
+
+We are using natural language processing and machine learning to build an AI-enhanced FAQ solution for enterprise industries who need to find a better way to answer their customer’s questions and provide them helpful feedback – all the while reducing the burden of their IT and CS representatives.
+
+I know that you may not be ready to leave your post, but I think that you may be the perfect fit for a leadership / full-stack engineering role that we are creating for our growing team. I would love to take a few minutes and tell you more about the technology and the team, and also to find out a bit more about your work and experience.
+
+My name is Andy Fang and I’m the CTO at DoorDash. I came across your LinkedIn profile and would love to connect about an opportunity to disrupt the logistics industry.
+
+Mobile is the surface through which we interact with each of these audiences — it’s foundational to our business. We value excellent development practices, careful code architecture, and refactoring. As a team we rely on continuous integration with automated testing to help us move quickly and maintain rapid release cycles. We’re in the process of moving entirely to swift, and I'd love to connect you with the team if you're interested in learning more.
+
+Let me know if you’d like to jump on a short call!
+
+I reached out to you previously regarding a Principal Engineer role that we have open on our growing, Dev team at Coupa Software. Your experience is exactly what we are looking for in a potential candidate. So, I wanted to check back in to see if you would be open to a conversation.
+
+It would be great to connect to see whether this opportunity might be of interest to you or if you might know someone who potentially would be a good fit. Are you available for a call this week or next? 
+
